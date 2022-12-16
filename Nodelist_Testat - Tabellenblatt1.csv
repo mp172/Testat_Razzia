@@ -1,0 +1,30 @@
+id ,name,type,sector
+HPR,Heinrich Prinz Reuß,1,Adel
+FH,Frank Heppner,1,Gastronomie
+MF,Michael Fritsch,1,Polizei
+ME,Maximilian Eder,1,Militär
+CW,Christian Wendler,1,Wirtschaft
+RHL,Ruth Hildegard L,1,Politik
+RP,Rüdiger P,1,Militär
+PG,Paul G,1,Jurist
+MVH,Marco van H,1,Militär
+MR,Melanie R,1,Ärztin
+PW,Peter Wörner,1,Militär
+RR,Rene R,1,Kultur
+BMW,Birgit Malsack-Winkelmann,1,Politik
+AD,Adel,NA,NA
+GA,Gastronomie,NA,NA
+PO,Polizei,NA,NA
+MI,Militär,NA,NA
+WI,Wirtschaft,NA,NA
+JU,Jurist,NA,NA
+AR,Ärzt,NA,NA
+KU,Kultur,NA,NA
+PL,Politik,NA,NA
+AFD,Alternative für Deutschland,2,Politik
+KSK,Kommando Spezial Kräfte,2,Militär
+VP,Veteranen Pool,2,Militär
+DB,Die Basis,2,Politik
+VPA,Vereinte Patrioten,2,Politik
+QD,Querdenker,2,Politik
+EA,Einsatz Ahrtal,2,Militär
