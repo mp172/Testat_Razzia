@@ -8,19 +8,19 @@ RHL,Ruth Hildegard L,1,Politik
 RP,Rüdiger P,1,Militär
 PG,Paul G,1,Jurist
 MVH,Marco van H,1,Militär
-MR,Melanie R,1,Ärztin
+MR,Melanie R,1,Arzt
 PW,Peter Wörner,1,Militär
 RR,Rene R,1,Kultur
 BMW,Birgit Malsack-Winkelmann,1,Politik
-AD,Adel,NA,NA
-GA,Gastronomie,NA,NA
-PO,Polizei,NA,NA
-MI,Militär,NA,NA
-WI,Wirtschaft,NA,NA
-JU,Jurist,NA,NA
-AR,Ärzt,NA,NA
-KU,Kultur,NA,NA
-PL,Politik,NA,NA
+AD,Adel,3,Adel
+GA,Gastronomie,3,Gastronomie
+PO,Polizei,3,Polizei
+MI,Militär,3,Militär
+WI,Wirtschaft,3,Wirtschaft
+JU,Jurist,3,Jurist
+AR,Arzt,3,Arzt
+KU,Kultur,3,Kultur
+PL,Politik,3,Politik
 AFD,Alternative für Deutschland,2,Politik
 KSK,Kommando Spezial Kräfte,2,Militär
 VP,Veteranen Pool,2,Militär
